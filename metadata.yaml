@@ -1,5 +1,5 @@
 _repo: The-Notebooks-of-Leonardo-Da-Vinci-Volume-2_4999
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Richter, Jean Paul
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '6237'
     url: http://www.gutenberg.org/2009/agents/6237
     wikipedia: http://www.lib.duke.edu/lilly/artlibry/dah/richterj.htm
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leonardo, da Vinci
@@ -23,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Leonardo_da_Vinci
     - http://fr.wikipedia.org/wiki/Leonardo_da_Vinci
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4999#The-Notebooks-of-Leonardo-Da-Vinci-Volume-2
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:

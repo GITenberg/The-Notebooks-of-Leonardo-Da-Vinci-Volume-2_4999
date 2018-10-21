@@ -1,5 +1,5 @@
 _repo: The-Notebooks-of-Leonardo-Da-Vinci-Volume-2_4999
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Richter, Jean Paul
@@ -39,5 +39,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'ND'
 - !lcsh 'Leonardo, da Vinci, 1452-1519 -- Notebooks, sketchbooks, etc.'
+- GITenberg
 title: The Notebooks of Leonardo Da Vinci — Volume 2
 url: http://www.gutenberg.org/ebooks/4999
